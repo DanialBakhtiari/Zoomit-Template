@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "vazirRegular";
+  src: url(../fonts/Vazir-Regular.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "vazirLight";
+  src: url(../fonts/Vazir-Light.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "vazirBlod";
+  src: url(../fonts/Vazir-Bold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "vazirBlack";
+  src: url(../fonts/Vazir-Black.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "sahelBold";
+  src: url(../fonts/Sahel-Bold.woff2) format("woff2");
+}
